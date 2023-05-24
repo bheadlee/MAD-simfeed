@@ -8,3 +8,5 @@ The original version will provide basic random function.  The ultimate idea is t
 There will also be another component eventually which can provide anomalous data.
 
 Another feature that will be included is to have an option to produce 'offline' json data over a period of time in order to provide immediate training data.
+
+TO understand this process visit https://docs.github.com/en/get-started/quickstart/hello-world
